@@ -30,3 +30,4 @@ app/config/deploy.rb
 !build/phpunit.xml
 !build/phpdox.xml
 build/*
+.idea
